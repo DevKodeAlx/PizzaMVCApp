@@ -1,4 +1,4 @@
-﻿namespace RazorPizzeria.Models
+﻿namespace RazorPizzeria.Model
 {
     public class PizzasModel
     {
@@ -11,7 +11,7 @@
         public bool Mushrooms { get; set; }
         public bool Olives { get; set; }
         public bool Pineapple { get; set; }
-        public bool Chicken { get; set; }
+        public bool Tuna { get; set; }
         public bool Bacon { get; set; }
         public float FinalPrice { get; set; }
 
